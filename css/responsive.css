@@ -1,0 +1,22 @@
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .header-content h1 {
+        font-size: 2.2rem;
+    }
+    
+    .subtitle {
+        font-size: 1rem;
+    }
+    
+    nav ul {
+        flex-wrap: wrap;
+    }
+    
+    nav li {
+        margin: 0.3rem;
+    }
+    
+    .section-title h2 {
+        font-size: 1.8rem;
+    }
+}
